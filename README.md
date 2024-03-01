@@ -18,6 +18,4 @@ Due to the large size of the training data, please refer to the PyTorch version 
 
 Then run the code as followed to train with your own config
 
-"""
-python runner.py -cfg [CFG]
-"""
+> python runner.py -cfg [CFG]
